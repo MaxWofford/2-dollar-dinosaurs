@@ -1,4 +1,4 @@
-#2-dollar-dinosaurs
+# 2-dollar-dinosaurs
 
 <img src="https://raw.githubusercontent.com/hackedu/dinosaurs/master/restaurant_dinosaur.png" width="50%">
 
